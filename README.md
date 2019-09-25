@@ -6,7 +6,7 @@
 
 Implementar un programa en c que inserte números en un árbol binario ingresados por el usuario, y muestre los números usando los recorridos en PreOrden, Orden y PostOrden.
 
-### Modo demostración
+### Instrucciones 
 
 El programa crea un árbol binario con ordemaniento binario a partir de números ingresados por el usuario, y presenta un menú con las siguientes opciones:
 
